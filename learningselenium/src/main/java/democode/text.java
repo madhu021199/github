@@ -10,6 +10,7 @@ public class text {
 
 		int a=5+5;
 		System.out.println(a);
+		
 		List<String> list = new ArrayList<String>();
 		list.add("asdf");
 		list.add("kjhcdvzhcj");
