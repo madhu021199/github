@@ -29,6 +29,8 @@ public class text {
 		for (String string : list) {
 			System.out.println(string);
 			
+			System.out.println("I am Madhumitha");
+			
 		}
 	}
 
