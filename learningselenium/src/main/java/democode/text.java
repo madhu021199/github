@@ -9,7 +9,8 @@ public class text {
 		// TODO Auto-generated method stub
 
 		int a=5+5;
-		System.out.println(a);
+		int b=2+2;
+		System.out.println(a+b);
 		
 		List<String> list = new ArrayList<String>();
 		list.add("asdf");
