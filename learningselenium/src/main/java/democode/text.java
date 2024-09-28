@@ -31,7 +31,7 @@ public class text {
 			
 			System.out.println("I am Madhumitha");
 			System.out.println("Iam ram");
-System.out.println("X architect");
+System.out.println("X1 architect");
 			
 		}
 	}
