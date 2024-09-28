@@ -30,8 +30,8 @@ public class text {
 			System.out.println(string);
 			
 			System.out.println("I am Madhumitha");
-			
-			System.out.println("x architect");
+			System.out.println("Iam ram");
+System.out.println("X architect");
 			
 		}
 	}
